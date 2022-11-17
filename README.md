@@ -9,11 +9,11 @@ I've accumulated a great hatred for mice (the electronics of course, I'm vegan ð
 
 Consider following @ThePrimeagen and @tjdevries, they have great content about `neovim` (and plugins) on YouTube and Twitch.
 
-My current setup can be found in this [.dotfiles](https://github.com/Chroma91/.dotfiles) repository.
+My current setup can be found in this [.dotfiles](https://github.com/timopruesse/.dotfiles) repository.
 
 ## Latest Side Project
 
 A CLI tool to manage your configuration and tools between multiple machines or when setting up something new.  
 Of course, it's written in Rust ðŸ¦€, d'oh!  
 
-Check it out here: [machine_setup](https://github.com/Chroma91/machine_setup).
+Check it out here: [machine_setup](https://github.com/timopruesse/machine_setup).
